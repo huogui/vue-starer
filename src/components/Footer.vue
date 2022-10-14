@@ -7,7 +7,7 @@
     <a
       icon-btn i-carbon-logo-github
       rel="noreferrer"
-      href="https://github.com/huogui/vitesse-lite"
+      href="https://github.com/huogui/vue-starter"
       target="_blank"
       title="GitHub"
     />

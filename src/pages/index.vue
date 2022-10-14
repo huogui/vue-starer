@@ -12,8 +12,8 @@ const go = () => {
   <div>
     <div i-carbon-campsite text-4xl inline-block />
     <p>
-      <a rel="noreferrer" href="https://github.com/huogui/vitesse-lite" target="_blank">
-        Vitesse Lite
+      <a rel="noreferrer" href="https://github.com/huogui/vue-starter" target="_blank">
+        Vue starter
       </a>
     </p>
     <p>
